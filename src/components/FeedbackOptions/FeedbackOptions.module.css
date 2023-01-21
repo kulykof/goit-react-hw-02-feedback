@@ -1,5 +1,8 @@
 .button {
   margin-left: 20px;
+  background-color: rgb(247, 176, 149);
+  border-radius: 15%;
+  font-size: medium;
 }
 
 .button:first-child {
